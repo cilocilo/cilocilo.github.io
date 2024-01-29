@@ -3,6 +3,8 @@
 #url
 
 # CCTV
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV",CCTV1 综合 4K
+http://cfss.cc/api/ysp/cctv4k.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV",CCTV1 综合
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV",CCTV2 财经
