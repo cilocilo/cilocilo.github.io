@@ -1,0 +1,51 @@
+[
+    {
+        "name": "海外看",
+        "api": "https://haiwaikan.com/api.php/provide/vod/",
+        "note": "需要代理"
+    },
+    {
+        "name": "",
+        "api": ""
+    },
+    {
+        "name": "快播云",
+        "api": "http://www.kuaibozy.com/api.php/provide/vod/"
+    },
+    {
+        "name": "量子云",
+        "api": "http://cj.lziapi.com/api.php/provide/vod/"
+    },
+    {
+        "name": "天空云",
+        "api": "https://api.tiankongapi.com/api.php/provide/vod/"
+    },
+    {
+        "name": "八戒云",
+        "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php/provide/vod/"
+    },
+    {
+        "name": "U酷资源",
+        "api": "https://api.ukuapi.com/api.php/provide/vod/"
+    },
+    {
+        "name": "乐活资源",
+        "api": "https://lehootv.com/api.php/provide/vod/"
+    },
+    {
+        "name": "飘花电影",
+        "api": "http://www.zzrhgg.com/api.php/provide/vod/"
+    },
+    {
+        "name": "艾旦影视",
+        "api": "https://lovedan.net/api.php/provide/vod/"
+    },
+    {
+        "name": "福利1",
+        "api": "http://wmcj8.com/inc/sapi.php/provide/vod/"
+    },
+    {
+        "name": "福利2",
+        "api": "https://shayuapi.com/api.php/provide/vod/"
+    }
+]
